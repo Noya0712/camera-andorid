@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Secreenshot yuda1](image/01.png)
+![Secreenshot yuda1](image/1.png)
 
 ## Getting Started
 
